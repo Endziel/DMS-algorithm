@@ -5,7 +5,9 @@ C++ implementation of deadline-monotonic scheduling algorithm with graph generat
 ## Installation
 -Download or clone this repository
 -compile using Qt(https://www.qt.io/download) or with any c++ compiler using qt libraries
+'''
 (Qt6Charts.dll, Qt6ChartsQml.dll, Qt6Concurrent.dll, Qt6Core.dll, Qt6Core5Compat.dll, Qt6Gui.dll, Qt6OpenGL.dll, Qt6OpenGLWidgets.dll, Qt6Widgets.dll)
+'''
 -Add task to table ("Dodaj zadanie") or load schedule from file ("Wczytaj zadania z pliku") and click "Sprawdz harmonogram" to generate graph of schedule if scheduling is possible. If not, error will appear.
 
 ## Screenshots
